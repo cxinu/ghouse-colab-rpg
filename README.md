@@ -1,6 +1,5 @@
 # ghouse-colab-rpg
  RPG game development project
-<<<<<<< HEAD
  
 ## DOWNLOADING
 
@@ -18,5 +17,3 @@ https://godotengine.org/download/windows/
 https://godotengine.github.io/godot-demo-projects/
 
 <!-- ![image](https://github.com/cxinu/ghouse-colab-rpg/assets/72374438/23381856-9c0c-4ff1-a3c2-f95c94166c5b) -->
-=======
->>>>>>> parent of 0d8c2f7 (Update README.md)
